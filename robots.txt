@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laighiihi.lumoscloud.com/sitemap.xml
